@@ -1,0 +1,254 @@
+.register{
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    flex-direction: column;
+    background-color: #ffffff;
+    overflow:hidden;
+}
+
+.sign-up-head{
+    width: 100%;
+    height: 25px;
+    background: url('../../assets/svg/patternTop.svg') center center repeat-y;
+    background-size: cover;
+    background-color: rgb(21, 59, 23);
+    z-index: 1;
+}
+
+.head-uberL{
+    right: 0;
+    left: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin:10px auto 0px;
+    height:60px;
+    width: 60px;
+    background-color: #000;
+    z-index: 15;
+}
+
+.uberL-text{
+    color:white;
+    font-size: 16px;
+    font-weight: 500;
+}
+
+.sign-up-div{
+    width: 100%;
+    background-color: rgb(240, 230, 230);
+}
+
+.sign-up-cont{
+    width: 30%;
+    margin: 100px auto 0px;
+    padding: 5px;
+    display: flex;
+    flex-direction: column;
+}
+
+.tiny-form-head{
+    margin-bottom: 10px;
+}
+
+.sign-inTxt{
+    color:#000;
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.tiny-form-in{
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 15px;
+}
+
+.emailOrNumCl{
+    color:#000;
+    font-size: 13px;
+    font-weight: 300;
+    padding-bottom: 8px;
+}
+
+.tiny-form-but{
+    width: 100%;
+}
+
+.mobOremailCl{
+    padding: 5px;
+    border:none;
+}
+
+.tiny-form-but{
+    margin-bottom: 12px;
+}
+
+.tiny-form-button{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 2px 0px;
+    border:2px solid #11939A;
+    background-color: #11939A;
+}
+
+.tiny-form-buttonD{
+    padding-right: 15px;
+}
+
+.tiny-form-buttonD{
+    padding-left: 8px;
+    color:white;
+    font-size: 10px;
+    font-weight: 500px;
+}
+
+.orSign-up-with{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+}
+
+.orSign-up-with-item{
+   width: 100%;
+   padding: 6px 0px;
+   border:none;
+}
+
+.fb-iconD{
+    flex:1;
+    padding:0px 5px;
+}
+
+.sign-up-cont-withD{
+    display: flex;
+    flex:7;
+}
+
+.sign-up-cont-with{
+    color:#fff;
+    font-size: 13px;
+    font-weight: 500;
+}
+
+.sign-up-with-fb{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    padding: 3px 0px;
+    border:none;
+    background-color: #3b5998;
+    cursor:pointer;
+}
+
+.sign-up-with-goog{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    padding: 3px 0px;
+    border:none;
+    background-color: #4285F4;
+    cursor:pointer;
+}
+
+.sign-up-cont-withIc{
+    flex:1;
+}
+
+.didYhaveAcc{
+    width: 100%;
+    padding: 8px 0px;
+}
+
+.didYhaveAccD{
+  display: flex;
+}
+
+.didYhaveAccDP{
+   font-size: 13px;
+   font-weight: 400;
+}
+
+.didYhaveAccDLink{
+  color: #11939A;
+  text-decoration: none;
+  cursor:pointer;
+}
+
+.regFoot{
+    width: 100%;
+}
+
+.regFootImgD{
+    width: 100%;
+    max-height: 197px;
+    display: flex;
+    align-items: center;
+    background-color: rgb(240, 230, 230);
+}
+
+.regFootImgDiv{
+    margin-top: -72px;
+    padding: 0px 75px;
+}
+
+.palmaFootImg{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.regFootBott{
+    width: 100%;
+    margin-top: -4px;
+    padding-bottom: 15px;
+    background-color: #000;
+}
+
+.regFootBottom{
+    width: 100%;
+    display: flex;
+    padding-top: 15px;
+}
+
+.regFootBottRight{
+    width: 97%;
+    display: flex;
+    flex-direction: column;
+    padding-right: 22px;
+}
+
+.footBottLinks{
+    display: flex;
+    justify-content: space-between;
+    width: 90%;
+    padding: 5px 0px;
+    margin:0px auto;
+}
+.footBottLinkIt{
+    color:white;
+}
+
+.UberAl{
+    text-decoration: none;
+    font-size: 16px;
+    font-weight: 500;
+    color:white;
+    cursor:pointer;
+}
+
+.incUberTech{
+    color:white;
+    font-size: 8px;
+    font-weight: 300;
+}
+
+.incUberTechLink{
+    text-decoration: none;
+    padding: 0px 5px;
+    color:white;
+    font-size: 10px;
+    font-weight: 300;
+}

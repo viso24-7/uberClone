@@ -1,0 +1,22 @@
+<svg height="26" width="26" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 88 38">
+     <defs>
+         <pattern id="a___UrgVHyok" data-name="2/2 - black" width="4" height="4" patternTransform="translate(0 34.35)" patternUnits="userSpaceOnUse" viewBox="0 0 4 4">
+            <path class="cls-1" fill="none" d="M0 0h4v4H0z"></path>
+            <path d="M0 0h2v2H0z"></path>
+        </pattern>
+    </defs>
+    <title>ias-icons</title>
+    <path d="M5.66 44V6.33A6.33 6.33 0 0 1 12 0H6.33A6.33 6.33 0 0 0 0 6.33V44a6.33 6.33 0 0 0 6.33 6.33H12A6.33 6.33 0 0 1 5.66 44z" fill="#000"></path>
+    <rect fill="#d6d6d5" x="5.66" width="82.34" height="50.35" rx="6.33" ry="6.33"></rect>
+    <path stroke="#000" stroke-miterlimit="10" stroke-width="2" fill="none" d="M52.67 17.32h26.35m-26.35-6.44h26.35M52.67 23.83h26.35"></path>
+    <path d="M14.52 40.46V9.91h30.55v30.55z"></path>
+    <path fill="#5879DA" d="M45.08 9.9L14.52 40.45V9.9h30.56z"></path>
+    <circle fill="#f8f8f9" cx="28.6" cy="23.55" r="8.19"></circle>
+    <path d="M32.11 40.45h-5.89v-3a8.91 8.91 0 0 1 2.61-6.3l.69-.69a8.91 8.91 0 0 0 2.61-6.3h1.64v16.29h-1.66z"></path>
+    <path fill="#f8f8f9" d="M20.41 27.8h10.85v12.66H20.41z"></path>
+    <path fill="#f8f8f9" d="M28.6 35h6.67a1.53 1.53 0 0 0 1.53-1.53v-10h-8.2V35z"></path>
+    <path fill="#f8f8f9" d="M36.79 25.25v3.26h.82a.38.38 0 0 0 .27-.65 3.7 3.7 0 0 1-1.09-2.61z"></path>
+    <path d="M28.6 15.36a8 8 0 0 0-8.19 8V35.4l2.83-2.83A3.58 3.58 0 0 0 24.29 30v-4.16a1.27 1.27 0 0 1 1.27-1.27 1.27 1.27 0 0 1 1.27 1.27V26h.73a2.22 2.22 0 0 0 2.22-2.22v-1a1.61 1.61 0 0 1 1.61-1.61h5.05a8.2 8.2 0 0 0-7.84-5.81z"></path>
+    <path d="M28.78 18.11h6.59a3.73 3.73 0 0 1 3.73 3.73v1.26H28.78v-5 .01zm-8.37 22.34h-5.89v-3a8.91 8.91 0 0 1 2.61-6.3l.69-.69a8.91 8.91 0 0 0 2.61-6.3h3.86v12.41a3.88 3.88 0 0 1-3.88 3.88z"></path>
+    <path ill="url()" d="M52.67 30.42h26.35v10.04H52.67z"></path>
+</svg>  

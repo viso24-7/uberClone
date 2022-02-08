@@ -1,0 +1,219 @@
+.uberFooter{
+    height: 500px;
+    width: 100%;
+    background-color: #000000;
+}
+
+.uberFooterDiv{
+    width: 80%;
+    height:100%;
+    margin:0px auto;
+}
+
+.uberFooterCont{
+    display: grid;
+    height: 85%;
+    padding:25px;
+}
+
+.uberFooterH{
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-rows: 60px;
+    padding: 10px 10px 0px;
+    color:white;
+}
+
+.uberFhead{
+    display: flex;
+    align-items: flex-start;
+    padding-left: 5px;
+}
+
+.uberFheadText{
+    font-size: 19px;
+    font-weight: 500;
+}
+
+.uberHelpCenter{
+    display: flex;
+    align-items: flex-start;
+    padding-left: 5px;
+}
+
+.uberProducts{
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-rows: 230px;
+    padding: 10px 10px 0px;
+}
+
+.uberProductsItems{
+    height: 100%;
+    width: 100%;
+    display: flex;
+    align-items: flex-start;
+}
+
+.uberProductListItem{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    flex:1;
+    flex-basis:25%;
+    color:#fff;
+}
+
+.uberProdItem{
+    padding: 2px;
+    color:#fff;
+}
+
+.uberProdItemHeader{
+    font-size: 15px;
+    font-weight: 400;
+}
+
+.uberProdItemL{
+    text-decoration: none;
+    color:inherit;
+    font-size: 11px;
+    font-weight: 400;
+    cursor:pointer;
+}
+
+.uberProdItemL:hover{
+   color:rgb(141, 129, 129);
+}
+
+.uberSocialMedia{
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-rows: 40px;
+    padding: 10px 10px 0px;
+}
+
+.uberSocialMediaCont{
+    height: 100%;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+}
+
+.uberSocialMediaIcons{
+    flex:2;
+    display: flex;
+    align-items: flex-start;
+}
+
+.uberSocialMediaIcon{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-right: 18px;
+}
+
+.uberSocialMediaLocation{
+    flex:4;
+    display: flex;
+    align-items: flex-start;
+}
+
+.uberLocationD{
+    display: flex;
+    border:none;
+    color:#fff;
+    background-color: inherit;
+    cursor:pointer;
+    margin-right: 15px;
+}
+
+.locatText{
+    margin:0px 5px;
+}
+
+.uberSocialMediaDownloadWith{
+    flex:2;
+    display: flex;
+    align-items: flex-start;
+}
+
+.mediaDownWith{
+    display: flex;
+    margin-right: 10px;
+}
+
+.mediaDownWithL{
+    display: flex;
+    flex-direction: row;
+    text-decoration: none;
+    border-radius:3px;
+    border: 1.1px solid rgb(114, 110, 110);
+}
+
+.downlMediaLogo{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.downlMediaTXT{
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    color:#ffffff;
+    padding-left: 3px;
+}
+
+.downlMediaTXT h5{
+   font-size: 10px;
+   font-weight: 400;
+}
+
+.downlMediaTXT h6{
+    font-size: 13px;
+    font-weight: 300;
+ }
+
+ .uberSecurity{
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-rows: 40px;
+    padding: 10px 10px 0px;
+}
+
+.uberSecDiv{
+    height: 100%;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.uberSecDivItms{
+    display: flex;
+    align-items: center;
+    color:#fff;
+}
+
+.uberTechnoText{
+    color:#b3b3b3;
+    font-size: 11px;
+    font-weight: 400;
+}
+
+.uberSecPolTerAcc{
+    padding: 4px;
+}
+
+.uberSecPolTerAccL{
+    color:#b3b3b3;
+    font-size: 12px;
+    font-weight: 400;
+    text-decoration: none;
+    cursor:pointer;
+}
+
+.uberSecPolTerAccL:hover{
+    color:gray;
+}

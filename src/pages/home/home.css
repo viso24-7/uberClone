@@ -1,0 +1,403 @@
+.home{
+    height: 100%;
+    width: 100vw;
+}
+
+.uberHomePlataform{
+    height: auto;
+    width: 100%;
+    display: flex;
+    background: url("../../assets/img/uberLogo.jpg");
+    background-size: cover;
+    background-position:center,center;
+}
+
+.moreAboutOurPlatform{
+    height: 100%;
+    width: 48%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 20px 0px;
+    padding-left:120px;
+}
+
+.moreAboutOurPlatformCont{
+    display: block;
+    height: 84%;
+    width: 62%;
+    padding: 20px 0px;
+    background-color: #fff;
+}
+
+.platformOpts{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
+    gap:73px;
+    height: 30%;
+}
+
+.platformItems{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-decoration: none;
+}
+
+.platformItemsTxt{
+    color: #000;
+    font-size: 12px;
+    font-weight: 500;
+}
+
+.moreaboutPlatformOpts{
+    height: 70%;
+    display: flex;
+    flex-direction: column;
+    padding-top: 10px;
+}
+
+.moreaboutPlatformOptsH h2{
+    padding: 0px 20px;
+    font-size: 30px;
+    font-weight: 500;
+}
+
+.moreaboutPlatformOptsP span{
+    font-size: 9px;
+    font-weight: 400;
+    padding-left:20px;
+}
+
+.moreaboutPlatformOptsButton{
+   margin: 20px;
+   padding: 6px;
+   border:none;
+   color:white;
+   background-color: #000;
+}
+
+.moreaboutPlatformOptsA a{
+   padding-left: 25px;
+   padding-bottom: 10px;
+   font-size: 11px;
+   font-weight: 300;
+   text-decoration-color: rgb(243, 236, 236);
+   text-decoration: underline;
+   text-underline-offset: 4px;
+}
+
+.uberBussiness{
+    height: auto;
+    width: 100vw;
+    background: linear-gradient(0deg, rgba(255, 255, 255, 0.3),rgba(255, 255, 255, 0.3)), url(https://www.uber-assets.com/image/upload/v1613106985/assets/0e/47aa71-35cb-459a-a975-78c61ea300e2/original/HP-U4B-NYC-bkg.png);
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.uberBussinessCont{
+    width: 56%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: 0px auto;
+    padding: 15px 0px;
+}
+
+.uberBussinessH h3{
+    color:#000;
+    font-size: 36px;
+    font-weight: 500;
+}
+
+.uberBussinessText{
+    margin-bottom: 10px;
+}
+
+.uberBussinessText span{
+    font-size: 13px;
+    font-weight: normal;
+}
+
+.uberBussButton{
+    text-align: center;
+    border:none;
+    padding: 5px 10px;
+    color:white;
+    background-color: #000;
+    cursor:pointer;
+}
+
+.uberSafety{
+    height: auto;
+    width: 60%;
+    display: flex;
+    margin:0px 20%;
+    background-color: #ffffff;
+}
+
+.uberSafetyCont{
+    height: 100%;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin:0px auto;
+    padding: 15px 0px;
+}
+
+.uberSafetyH{
+    display: flex;
+    width: 100%;
+}
+
+.uberSafetyH h1{
+    color:#333333;
+    font-size: 30px;
+    font-weight: 500;
+}
+
+.uberSafetyComm{
+    display: flex;
+    gap:10px;
+    width: 100%;
+    padding-top: 12px;
+}
+
+.uberCommitent,.uberMotion{
+    display: flex;
+    flex-direction: column;
+    flex:1;
+}
+
+.uberTaxiClas{
+    height: 200px;
+    width: 320px;
+    object-fit: cover;
+}
+
+.uberComoHeader{
+   color:#333333;
+   font-size: 17px;
+   font-weight: 500;
+}
+
+.uberCommPg{
+    color:#333333;
+    font-size: 12px;
+    font-weight: 300;
+}
+
+.uberCommLinks{
+    display: flex;
+}
+
+.uberCommLinksItem{
+    display: flex;
+    flex-direction: row;
+    cursor:pointer;
+}
+
+.uberCommLinks{
+    display: flex;
+    flex-direction: row;
+    gap:8px;
+    padding: 3px;
+    margin-top: 5px;
+}
+
+.uberCommLinksItemLink{
+    color:#333333;
+    text-decoration: underline;
+    font-size: 10px;
+    font-weight: 300;
+    margin-right: 5px;
+    text-underline-offset: 3px;
+}
+
+.uberOthers{
+    height: auto;
+    width: 100vw;
+    background-color: #ffffff;
+    display: block;
+}
+
+.uberOthersD{
+    display: block;
+    width: 60%;
+    margin:0px auto;
+}
+
+.uberOtherCont{
+    display: flex;
+    flex-direction: row;
+    padding: 25px 15px;
+}
+
+.uberOtherContItem{
+    display: flex;
+    flex-direction: column;
+    gap:10px;
+}
+
+.otherInfHeader{
+    font-size: 15px;
+    font-weight: 500;
+}
+
+.otherInfParag{
+    font-size: 10px;
+    font-weight: 300;
+}
+
+.otherInfL{
+    margin-top: 12px;
+}
+
+.otherInfLink{
+    text-decoration: underline;
+    font-size: 10px;
+    font-weight: 400;
+    margin-right: 5px;
+    text-underline-offset: 3px;
+}
+
+.downUber{
+    height: auto;
+    width: 100vw;
+    display: block;
+    background-color: #f6f6f6;
+}
+
+.downUberD{
+    display: block;
+    width: 60%;
+    margin:0px auto;
+}
+
+.downUberCont{
+    width: 100%;
+    display: flex;
+    padding: 25px 15px;
+}
+
+.downUberItem{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
+
+.downUberH{
+    padding-bottom: 7px;
+}
+
+.downloadUberHead{
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.howToDonwl{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    gap:15px;
+}
+
+.howToDownlWith{
+    display: flex;
+    flex:1;
+    background-color: #ffffff;
+    padding: 12px 0px 12px 12px;
+}
+
+.howToDownlWithLink{
+    display: flex;
+    width: 100%;
+    cursor:pointer;
+}
+
+.uberLinkToHomeP{
+    display: flex;
+    flex:2;
+    flex-direction: column;
+    color:#fff;
+    padding: 10px 15px;
+    background-color: #000000;
+}
+
+.uberTextD{
+    font-size: 28px;
+    font-weight: 500;
+}
+
+.downDriverAppDiv{
+    display: flex;
+    flex:5;
+    align-items: center;
+    justify-content: center;
+}
+
+.downDriverApp{
+    font-size: 14px;
+    font-weight: 500;
+}
+
+.forwardDivIc{
+    display: flex;
+    flex:1;
+    align-items: center;
+    justify-content: center;
+}
+
+.sign-up{
+    height: auto;
+    width: 100%;
+    background-color: #ffffff;
+}
+
+.sign-upD{
+    height:100%;
+    width: 60%;
+    margin:0px auto;
+    padding: 20px 0px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.sign-upCont{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding:10px;
+}
+
+.sign-up-links{
+    display: flex;
+    flex:1;
+    margin-right: 10px;
+    padding: 8px;
+    border-bottom: 1px solid teal;
+}
+
+.sign-up-links-item{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    text-decoration: none;
+}
+
+.sign-up-text{
+    color:#333333;
+    font-size: 21px;
+    font-weight: 500;
+}
+

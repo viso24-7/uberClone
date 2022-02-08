@@ -1,0 +1,666 @@
+.ride{
+    height: 100%;
+    width:100vw;
+    background-color: #ffffff;
+}
+
+.signToRide{
+    width: 100%;
+}
+
+.signToRideDiv{
+    width: 100%;
+    padding: 0px 20px 20px;
+}
+
+.signToRideCont{
+    width: 60%;
+    display: flex;
+    margin:0px 20%;
+}
+
+.signToRideInf{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    flex:1;
+}
+
+.signToRideImgD{
+    display: flex;
+    flex:1;
+    min-height:300px;
+    background: url("../../assets/img/uberTravel.jpg") top center no-repeat;
+    background-size: cover;
+}
+
+.alyWithUber{
+   padding:0px 15px 10px;
+   color:#000;
+   font-size: 35px;
+   font-weight: 400;
+}
+
+.reqAuberDr{
+    padding: 10px 15px;
+    color:#000;
+    font-size: 13px;
+    font-weight: 300;
+}
+
+.sign-up-to-drive-tg-bt{
+    padding: 10px 15px;
+}
+
+.sign-up-to-drive-tog{
+    padding: 8px 12px;
+    border:none;
+    color:#fff;
+    background-color:#000;
+    cursor:pointer;
+}
+
+.why-uber-app{
+    width: 100%;
+    background-color: #ffffff;
+}
+
+.why-uber-app-sec{
+    width: 68%;
+    margin:0px auto;
+}
+
+.why-uber-app-div{
+    width: 100%;
+    display: flex;
+}
+
+.why-uber-app-block{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    padding: 15px 15px 35px;
+}
+
+.whyRideWith-us{
+    width: 100%;
+    display: flex;
+    padding-bottom: 10px;
+}
+
+.why-uber-app-txt{
+    color:#000;
+    font-size: 22px;
+    font-weight: 400;
+}
+
+.whyRideWith-us-img{
+  width: 100%;
+  height: 100%;
+  object-fit:cover;
+}
+
+.easy-to-go-around-div{
+    width: 100%;
+    display: flex;
+    gap:10px;
+}
+
+.easy-to-go-around-it{
+    display: flex;
+    flex-direction: column;
+    flex:1;
+}
+
+.easy-to-go-around-it-h{
+    padding: 6px 0px;
+}
+
+.easy-to-go-around-it-head{
+    color:#000;
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.easy-to-go-around-it-p{
+  padding: 0px 26px 0px 0px;
+}
+
+.easy-to-go-around-it-par{
+    color:#000;
+    font-size: 10px;
+    font-weight: 300;
+}
+
+.how-riding-works{
+    width: 100%;
+    padding-top: 10px;
+}
+
+.how-riding-works-div{
+    padding: 5px 0px;
+}
+
+.how-riding-works-txt{
+    color:#000;
+    text-decoration: underline;
+    font-size: 12px;
+    font-weight: 300;
+    text-underline-offset: 3px;
+    text-decoration-color:rgb(219, 219, 219);
+    cursor:pointer;
+}
+
+.your-saf-val{
+    width: 100%;
+}
+
+.your-saf-val-cont{
+    width: 68%;
+    margin:0px auto;
+}
+
+.your-saf-val-cont{
+   padding: 15px 8px;
+}
+
+.your-saf-val-cont-items-h{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    padding-left: 11px;
+    padding-bottom: 15px;
+}
+.your-saf-val-cont-item-head{
+    padding: 5px 0px;
+}
+
+.saf-val-itemhead{
+    color:#000;
+    font-size: 25px;
+    font-weight: 400;
+}
+.saf-val-item--p-txt{
+    color:#000;
+    font-size: 12px;
+    font-weight: 300; 
+}
+
+.your-saf-val-cont-items-c{
+    width: 100%;
+    display: flex;
+    gap:10px;
+    padding-left: 11px;
+    padding-bottom: 10px;
+}
+
+.your-saf-val-cont-item-cent{
+    flex:1;
+    display: flex;
+    flex-direction: column;
+    gap:10px;
+    padding-bottom: 15px;
+}
+
+.saf-val-item-div-txt{
+    display: flex;
+    flex-direction: column;
+    gap:10px;
+}
+
+.valitem-div-h-text{
+    color:#000;
+    font-size: 18px;
+    font-weight: 400;
+}
+
+.saf-val-item-div-p-txt{
+    padding-right: 5px;
+}
+
+.val-item--p-txt{
+    color:#000;
+    font-size: 10px;
+    font-weight: 300;
+    line-height: 14px;
+    word-wrap: break-word;
+}
+
+.your-saf-val-cont-items-b{
+    width: 100%;
+    padding: 5px;
+}
+
+.bott-saf-val-l{
+   padding-left: 6px;
+}
+
+.bott-saf-val-link{
+    color:#000;
+    font-size: 13px;
+    font-weight: 300;
+    text-decoration: underline;
+    text-decoration-color: rgb(235, 234, 234);
+    text-underline-offset: 4px;
+    cursor:pointer;
+ }
+
+ .ride-uber-cars{
+     width: 100%;
+ }
+
+ .ride-uber-cars-sec{
+    width: 68%;
+    margin:0px auto;
+    padding: 20px 10px;
+ }
+
+ .ride-uber-cars-sec-1{
+     display: flex;
+     flex-direction: column;
+ }
+
+ .ride-cars-div-h{
+     padding-left: 8px;
+     margin-bottom: 10px;
+ }
+
+ .in-area-of-us{
+     color:#000;
+     font-size: 23px;
+     font-weight: 400;
+ }
+
+ .ride-cars-div-c{
+    padding-left: 8px;
+    margin-bottom: 10px;
+ }
+
+ .ride-cars-div-center{
+    position: relative;
+    width: 100%;
+ }
+
+ .ride-cars-div-center::after{
+    content: "";
+    position: absolute;
+    width: 100%;
+    height: 2.5px;
+    top: 27px;
+    left: 0px;
+    background-image: linear-gradient(90deg, #000 0% 10%, #a1a2a0 10% 100%);
+ }
+ 
+ .class-of-travel{
+     border:none;
+     padding:5px 8px 8px;
+     color:#000;
+     font-size: 12px;
+     font-weight: 400;
+     background-color: #ffffff;
+     cursor:pointer;
+ }
+
+ .new-uber-cars{
+     margin-top: 10px;
+     padding: 8px;
+ }
+
+ .new-uber-cars-items{
+     width: 100%;
+     display: flex;
+     gap:12px;
+     list-style: none;
+ }
+
+ .new-uber-cars-item{
+    display: flex;
+    flex-direction: column;
+    width: 35%;
+ }
+
+ .new-uber-carimg{
+     padding: 20px 0px;
+ }
+
+ .uberX-img{
+    height: 100%;
+    width: 82%;
+    object-fit: cover;
+ }
+
+ .inf-ab-ubercars{
+     display: flex;
+     flex-direction: column;
+     gap:6px;
+ }
+
+ .type-of-ubercars{
+     display: flex;
+     align-items: center;
+     padding: 3px 0px;
+ }
+
+ .uberX-car{
+     padding-right: 10px;
+ }
+
+ .uberX-car-inf{
+    color:#000;
+    font-size: 16px;
+    font-weight: 500;
+ }
+
+ .uberX-1-of-3{
+    padding: 4px 8px 2px;
+    border-radius: 18px;
+    font-size: 10px;
+     font-weight: 500;
+     color:#fff;
+     background-color: #000;
+ }
+
+ .affordable{
+     font-size: 12px;
+     font-weight: 400;
+ }
+
+ .see-cities-with-uber{
+     width: 100%;
+     padding: 20px 0px 15px;
+ }
+
+ .link-to-all-cities{
+     text-decoration: underline;
+     color:#000;
+     font-size: 12px;
+     font-weight: 400;
+     text-underline-offset: 4px;
+     text-decoration-color: rgb(200, 199, 199);
+ }
+
+ .everywhere-can-find-us{
+     width: 100%;
+ }
+
+ .everywhere-can-find-us-sec{
+     width: 88%;
+     padding: 25px;
+ }
+
+ .can-find-us-iycity{
+     width: 60%;
+     margin:0px auto;
+ }
+
+ .find-city-name-and-airport{
+     width:100%;
+     display: flex;
+     gap:12px;
+ }
+
+ .can-find-us-iycity-h{
+     margin-bottom: 20px;
+ }
+
+ .can-find-us-iycity-hTxt{
+     padding: 8px 0px;
+     font-size: 22px;
+     font-weight: 500;
+ }
+
+ .find-city-name,.find-city-airport{
+     flex:1;
+     display: flex;
+     flex-direction: column;
+ }
+
+ .find-city-name-top{
+    padding-bottom: 10px;
+ }
+
+ .cityorairportImg{
+     width: 100%;
+     height: 100%;
+     object-fit:cover;
+ }
+
+.find-city-name-bott,.find-airport-name-bott{
+    display: flex;
+    flex-direction: column;
+}
+
+ .numberofcities,.numberofairports{
+     padding: 5px 0px;
+ }
+
+ .nm-of-cities-am,.nm-of-air-am{
+     color:#000;
+     font-size: 13px;
+     font-weight: 500;
+ }
+
+ .avai-on-all-cit,.avai-on-all-air{
+   padding:0px 0px 5px;
+ }
+
+ .avai-on-all-cities,.avai-on-all-airports{
+    color:#000;
+    font-size: 10px;
+    font-weight: 400;
+ }
+
+ .search-city,.search-airport{
+     padding: 8px 0px 15px;
+ }
+
+ .search-city-link,.search-airport-link{
+    text-decoration: underline;
+    color:#000;
+    font-size: 12px;
+    font-weight: 400;
+    text-underline-offset: 4px;
+    text-decoration-color: rgb(200, 199, 199);
+ }
+
+ .ways-people-find-us{
+     width: 100%;
+ }
+
+ .ways-people-find-us-sec{
+     width: 72%;
+     margin:0px auto 25px;
+     padding:12px 0px 20px;
+ }
+
+ .ways-people-find-us-section{
+     display: flex;
+     padding: 30px 130px;
+     background-color: #f6f6f6;
+ }
+
+ .uber-woman-app-img{
+     flex:1;
+ }
+
+ .uber-woman-app-inf{
+    display: flex;
+    flex-direction: column;
+    flex:1;
+ }
+
+ .app-inf-h{
+   padding: 27px 0px 10px;
+ }
+
+ .app-inf-h-txt{
+     color:#000;
+     font-size: 21px;
+     font-weight: 500;
+ }
+
+ .app-inf-p-inf{
+    color:#000;
+    font-size: 10px;
+    font-weight: 300;
+ }
+
+ .app-inf-butt{
+     padding-top: 20px;
+ }
+
+ .app-inf-button{
+   border:none;
+   padding: 7px 11px;
+   color:#fff;
+   background-color: #000;
+   cursor:pointer;
+ }
+
+.question-sec{
+    width: 100%;
+}
+
+.question-section{
+    width: 71%;
+    margin:25px auto;
+}
+
+.freq-quests-cl{
+    padding: 10px 0px 10px 25px;
+}
+
+.freq-quests{
+    color:#000;
+    font-size: 28px;
+    font-weight: 500;
+}
+
+.question-section-links{
+    padding: 10px 0px 10px 25px;
+}
+
+.question-section-links-itms{
+    list-style: none;
+    padding-top: 5px;
+}
+
+ .question-section-link-item{
+     display: flex;
+     align-items: center;
+     justify-content: space-between;
+     border-bottom: 1.4px solid rgb(230, 228, 228);
+     padding: 3px 0px;
+     text-decoration: none;
+     color:#000;
+     cursor:pointer;
+ }
+
+.qusec-item{
+    margin-right: 8px;
+} 
+.qusec-item-txt{
+    font-size: 12px;
+    font-weight: 500;
+}
+
+.more-in-our-app{
+    width: 100%;
+    background-color: #f6f6f6;
+}
+
+.more-in-our-app-sec{
+   width: 30%;
+   display: flex;
+   flex-direction:column;
+   padding: 20px 0px 20px 180px;
+}
+
+.more-ab-app-sec-it-h{
+    display: flex;
+    padding: 15px 0px;
+}
+
+.more-ab-app-sec-it-head{
+    color:#000;
+    font-size: 25px;
+    font-weight: 400;
+}
+
+.more-ab-app-sec-it{
+   padding: 5px 0px;
+   background-color: #ffffff;
+}
+
+.wh-ab-app-sec-it{
+    display: flex;
+    align-items: center;
+    padding: 10px;
+    text-decoration: none;
+    cursor:pointer;
+}
+
+.wh-ab-app-sec-it-bbg{
+    padding: 30px 25px;
+    color:#fff;
+    background-color: #000;
+}
+
+.wh-ab-app-sec-it-txt{
+    padding:0px 40px 0px 15px;
+}
+
+.wh-ab-app-sec-it-down{
+    color:#000;
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.wh-ab-app-sec-it-ic{
+   padding-left: 10px;
+}
+
+.go-signup-to{
+    width: 100%;
+    background-color: #ffffff;
+}
+
+.go-signup-to-sec{
+    width: 30%;
+    display: flex;
+    padding: 20px 0px 20px 180px;
+}
+
+.go-signup-to-sec-it{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 15px 0px;
+    border-bottom: 1.4px solid rgb(230, 228, 228);
+    text-decoration: none;
+    cursor:pointer;
+}
+
+.go-signup-to-sec-item-txt{
+    color:#000;
+    font-size: 23px;
+    font-weight: 400;
+}
+
+.feat-by-count-reg-city{
+    width: 100%;
+    background-color: #ffffff;
+}
+
+.feat-by-count-reg-city-sec{
+    display: flex;
+    align-items: center;
+    padding: 25px 0px 25px 180px;
+}
+
+.feat-by-count-reg-city-sec-txt{
+    color:#000;
+    font-size: 9px;
+    font-weight: 400;
+}

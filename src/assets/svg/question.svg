@@ -1,0 +1,14 @@
+<svg data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 88 88" height="26" width="26">
+    <defs>
+         <pattern id="a___iro1uFnO" data-name="2/2 - black" width="4" height="4" patternTransform="translate(-4 39)" patternUnits="userSpaceOnUse" viewBox="0 0 4 4">
+            <path class="cls-1" fill="none" d="M0 0h4v4H0z"></path>
+                  <path d="M0 0h2v2H0z"></path>
+            </pattern>
+    </defs>
+    <title>ias-icons</title>
+    <circle class="illustration-primary-fill" cx="44" cy="81.85" r="6.15"></circle>
+    <path fill="#5879DA" d="M44 0v12.3a14.11 14.11 0 0 1 14.09 13.82H70.4A26.43 26.43 0 0 0 44 0z"></path>
+    <path d="M17.6 26.4h12.3A14.12 14.12 0 0 1 44 12.3V0a26.43 26.43 0 0 0-26.4 26.4z"></path>
+    <path class="cls-4" fill="#d6d6d5" d="M58.09 26.12v.28A14.12 14.12 0 0 1 44 40.5h-6.15v29.41h12.3V52.08A26.45 26.45 0 0 0 70.4 26.4v-.28H58.09z"></path>
+    <path class="cls-5" fill="url(#a___iro1uFnO)" d="M58.09 26.12v.28A14.12 14.12 0 0 1 44 40.5h-6.15v29.41h12.3V52.08A26.45 26.45 0 0 0 70.4 26.4v-.28H58.09z"></path>
+ </svg> 

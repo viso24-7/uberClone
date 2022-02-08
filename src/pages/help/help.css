@@ -1,0 +1,656 @@
+.help{
+    height: 100%;
+    width: 100vw;
+    background-color: #eeeeee;
+    overflow-x:hidden;
+}
+
+.helpD{
+    position: relative;
+    width: 80%;
+    margin: 0 auto;
+    background-color: #FFF;
+    flex: 1 0 auto;
+}
+
+
+.helpNavigator{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    height: 20px;
+    padding: 15px 0px;
+    background-color: #ffffff;
+}
+
+.helpNavDiv{
+   display: flex;
+   justify-content: space-between;
+   width: 100%;
+}
+
+.helpNavLeft{
+    display: flex;
+    padding-left: 15px;
+}
+
+.hNavLink{
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+}
+
+.uberL{
+    padding: 2px 0 2px 60px;
+    margin-right: 5px;
+    background: url(//d1a3f4spazzrp4.cloudfront.net/web-carseat/5.34.0/d1a3f4spazzrp4.cloudfront.net/images/logo-uber-black-ce0c9ae7c8.svg) center no-repeat;
+}
+
+.uberLTxt{
+    color:#5f5c5c;
+    font-size: 13px;
+    font-weight: 400;
+}
+
+.helpNavRight{
+    display: flex;
+    align-items: center;
+    gap:15px;
+    padding-right: 18px;
+}
+
+.selCity,.siUpBut{
+    display: flex;
+    align-items: center;
+    border:none;
+    background-color: #ffffff;
+}
+
+.goSelACity{
+    text-decoration: none;
+    color:#000;
+    font-size: 10px;
+    font-weight: 400;
+    cursor:pointer;
+}
+
+.siUpButton{
+    border:none;
+    padding: 3px;
+    font-size: 9px;
+    font-weight: 500;
+    background-color: #ffffff;
+    cursor:pointer;
+}
+
+.loGButi{
+    display: flex;
+    align-items: center;
+}
+
+.loGButton{
+    border:none;
+    padding: 6px;
+    color:#fff;
+    font-size: 9px;
+    font-weight: 500;
+    background-color: #12939A;
+    cursor:pointer;
+}
+
+.searchInhp{
+    height: 252px;
+    width: 90.5%; 
+    background: url("https://d1a3f4spazzrp4.cloudfront.net/web-carseat/5.34.0/d1a3f4spazzrp4.cloudfront.net/images/home/desk-home-client-e8cf84c4a6.jpg");
+    background-size: cover;    
+    background-repeat: no-repeat;    
+    background-position: center;  
+}
+
+.searchDhp{
+    display: flex;
+    height: 91%;
+    width: 86%;
+    padding: 10px 15px;
+}
+
+.serachForRiders{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.searchForRidersH{
+    display: flex;
+    align-items: flex-start;
+    width: 100%;
+}
+
+.arYhavTr{
+    margin-left: 1px;
+    color:#fff;
+    font-size: 22px;
+    font-weight: 400;
+    line-height:26px;
+}
+
+.herTHelpY{
+    margin-left: 1px;
+    color:#fff;
+    font-size: 22px;
+    font-weight: 300;
+    line-height:26px;
+    margin-bottom: 20px;
+}
+
+.srchCont{
+    display: flex;
+    width: 400px;
+    height: 24px;
+}
+
+.rdersDiv{
+    display: flex;
+    flex:3;
+    border: none;
+    padding: 0 13px;
+    background-color: #ededed;
+}
+
+.riderTxt{
+    display: flex;
+    align-items: center;
+    color:#000;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 40px;
+}
+
+.dscYourIss{
+    display: flex;
+    flex:5;
+    padding: 5px 15px;
+    background-color: #ffffff !important;
+}
+
+.yourIssToDesb{
+    width: 100%;
+    border:none;
+    font-size: 11px;
+    font-weight: 300;
+    background-color: inherit;
+}
+
+.yourIssToDesb:focus{
+   outline:none;
+}
+
+.goSrchFor{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex:1;
+    margin-left: 8px;
+}
+
+.goSearchIss{
+    padding: 3px 8px;
+    border:none;
+    font-size: 10px;
+    font-weight: 500;
+    line-height: 18px;
+    text-transform: uppercase;
+    color:white;
+    background-color: #11939A;
+    outline: 0;
+    cursor:pointer;
+}
+
+.helpTopics{
+    width: 98%;
+    background-color: #ffffff;
+}
+
+.helpTopicsD{
+    height: 100%;
+    width: 100%;
+    display: flex;
+    padding: 10px;
+}
+
+.helpSideNav{
+    display: flex;
+    height: 40%;
+    padding: 10px;
+}
+
+.helpSideNavList{
+    display: flex;
+    flex-direction: column;
+    flex:1;
+    list-style: none;
+    border:none;
+    border-right-width: 0px;
+    border-left-width:2px;
+    border-style: solid;
+    border-image: linear-gradient(to bottom, gray 10%, rgba(49, 48, 48, 0) 90% ) 1 100%;
+}
+
+.helpSideNavItems{
+    padding: 5px;
+}
+
+.helpSideNavItem{
+    text-decoration: none;
+    color:#000;
+    font-size: 12px;
+    font-weight: 400;
+}
+
+.theme-pattern{
+    position: absolute;
+    right: 0px;
+    background-color: #9debd3;
+    z-index: 10;
+}
+
+.helpRNavCont{
+    display: flex;
+    flex-direction: column;
+    flex:7;
+    background-color: #fff;
+    padding-left: 10px;
+    z-index:999;
+}
+
+.RNavContTop{
+    display: flex;
+    padding:10px;
+    margin: 15px 0px 20px;
+    background-color: #f8f8f9;
+}
+
+.RNavContTopH{
+     width: 100%;
+     display: flex;
+     justify-content: space-between;
+}
+
+.accHelpTrickD{
+    display: flex;
+}
+
+.accHelpTrick{
+   font-size: 15px;
+   font-weight: 400;
+}
+
+.shkoSign{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 2px 4px;
+    background-color: #12939A;
+}
+
+.shkoSignLink{
+    text-decoration: none;
+    color:white;
+    font-size: 8px;
+    font-weight: 400;
+    cursor:pointer;
+}
+
+.RNavContCenter{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+}
+
+.RNavContCentH{
+    display: flex;
+}
+
+.findAllTops{
+    font-size: 18px;
+    font-weight: 300;
+}
+
+.RNavContCentLayout{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    padding-top: 10px;
+}
+
+.rNavLayoutList{
+    width: 97%;
+    padding-left: 10px;
+    border-bottom: 1px solid rgb(214, 212, 212);
+}
+
+.rNavLayoutListItem{
+    display: flex;
+    width: 100%;
+    padding: 10px 0px;
+}
+
+.layListItemIc{
+    display: flex;
+    flex:1;
+}
+
+.layListItemLinks{
+    display: flex;
+    flex:8;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.tripARef{
+    font-size: 12px;
+    font-weight: 300;
+}
+
+.RNavContBott{
+    width: 100%;
+    display: flex;
+    margin-top: 25px;
+}
+
+.pushToTop{
+    display: flex;
+    gap:10px;
+    width: 100%;
+}
+
+.pushHugeTo{
+    display: flex;
+    flex-direction: row;
+    flex:1;
+    margin-bottom: 20px;
+}
+
+.pushHugeToIc{
+    display: flex;
+}
+
+.pushHugeToInf{
+    display: flex;
+    flex-direction: column;
+    padding-left: 4px;
+}
+
+.infTopHelp{
+    color:rgb(26, 24, 24);
+    font-size: 13px;
+    font-weight: 500;
+}
+
+.getInfoPushParag{
+    color:rgb(26, 24, 24);
+    font-size: 11px;
+    font-weight: 400;
+}
+
+.getLinkPush{
+    display: flex;
+    align-items: center;
+    margin-top: 10px;
+}
+
+.uberSuppCl{
+    margin-right: 10px;
+    text-decoration: none;
+    color:rgb(26,26,26);
+    font-size: 13px;
+    font-weight: 500;
+    cursor:pointer;
+}
+
+.uberSuppCl:hover{
+   text-decoration: underline;
+   text-underline-offset: 2px;
+}
+
+.abFootClass{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    margin:0 auto;
+    padding-top: 30px;
+    background-color: #fff;
+}
+
+.cityimgD{
+    height:auto;
+    width: 100%;
+}
+
+.footOnAboutP{
+    width: 100%;
+    margin-top: -4px;
+    padding-top: 25px;
+    background-color: #000;
+}
+
+.footOnAboutPCont{
+    width: 80%;
+    display: flex;
+    flex-direction: column;
+    margin:0px auto;
+}
+
+.deskLayoutTop{
+    width: 100%;
+    display: flex;
+}
+
+.deskLayoutTopL{
+    display: flex;
+    align-items: flex-start;
+    flex:6;
+}
+
+.layoutTopLinks{
+  flex:1;
+}
+
+.sign-up-to-rideD{
+    display: flex;
+    align-items: center;
+    padding: 5px 0px;
+}
+.uberHelpL{
+    text-decoration: none;
+    color:#ffffff;
+    font-size: 25px;
+    font-weight: 500;
+    cursor:pointer;
+}
+
+.getSomeH{
+    margin-left: 15px;
+    font-size: 18px;
+    font-weight: 400;
+}
+
+.sign-up-to-ride{
+    text-decoration: none;
+    padding: 8px 6px 6px;
+    color:#000;
+    font-size: 8px;
+    font-weight: 500;
+    background-color: #ffffff;
+    cursor: pointer;
+}
+
+.deskLayoutTopR{
+    display: flex;
+    align-items: center;
+    flex:1;
+    padding: 6px 0px;
+}
+
+.becAdriverBut{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 5px;
+    border:1.5px solid #fff;
+    background-color: #000;
+}
+
+.becAdriver{
+    text-decoration: none;
+    color:#fff;
+    font-size: 8px;
+    font-weight: 600;
+    cursor: pointer;
+}
+
+.likeAHr{
+    width: 100%;
+    height:0.7px;
+    margin: 15px 0px;
+    background-color: #b3b3b3;
+}
+
+.layoutFlush{
+    width: 100%;
+    display: flex;
+}
+
+.layoutFlushpalmOne{
+    flex:1;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+.palmOneItem{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.plan-one-item{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-right: 5px;
+    margin-bottom: 10px;
+    padding: 3px;
+}
+
+.langUber{
+    color:#fff;
+    font-size: 13px;
+    font-weight: 400;
+}
+
+.layoutFlushpalmTwo{
+    flex:3;
+    display: flex;
+}
+
+.palmTwoListItem{
+    flex:1;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding-left: 25px;
+}
+
+.palmTwItm{
+    display: flex;
+    padding-bottom: 10px;
+}
+
+.palmTwLinkIt{
+    text-decoration: none;
+    color:#fff;
+    font-size: 11px;
+    font-weight: 400;
+    cursor:pointer;
+}
+
+.palmTwLinkIt:hover{
+    color:#b3b3b3;
+}
+
+.layoutToDownApp{
+    width: 46%;
+    display: flex;
+    gap:10px;
+    align-items: center;
+    justify-content: center;
+    margin:0px auto 15px;
+}
+
+.to-down-app-inf{
+    display: flex;
+    flex-direction: column;
+    padding-left: 4px;
+}
+
+.to-down-app{
+    flex:1;
+    display: flex;
+}
+
+.to-down-app-ic{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.down-uber-app-on{
+    color:#b3b3b3;
+    font-size: 8px;
+    font-weight: 300;
+}
+
+.down-uber-app-from{
+    color:#b3b3b3;
+    font-size: 12px;
+    font-weight: 400;
+}
+
+.uber-comp-term-cond{
+    width: 100%;
+    display: flex;
+    padding: 10px 0px 20px;
+}
+
+.uber-company{
+    flex:1;
+    display: flex;
+    align-items: center;
+}
+
+.uber-company-filials{
+    color:#fff;
+    font-size: 8px;
+    font-weight: 300;
+}
+
+.uber-terms-a-cond{
+    flex:2;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.uber-priv-and-terns-cond{
+    text-decoration: none;
+    color:#fff;
+    font-size: 8px;
+    font-weight: 300;
+    cursor:pointer;
+}
+
+.uber-priv-and-terns-cond:hover{
+    color:#b3b3b3;
+}

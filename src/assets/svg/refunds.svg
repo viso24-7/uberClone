@@ -1,0 +1,16 @@
+<svg height="26" width="36" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 88 88">
+  <defs>
+    <pattern id="a___BLo9QJBU" data-name="2/2 - black" width="4" height="4" patternTransform="translate(-3.79 -1)" patternUnits="userSpaceOnUse" viewBox="0 0 4 4">
+        <path class="cls-1" fill="none" d="M0 0h4v4H0z">
+       </path><path d="M0 0h2v2H0z"></path>
+     </pattern>
+   </defs>
+   <title>ias-icons</title>
+   <rect x="19.31" width="44.95" height="88" rx="4.74" ry="4.74"></rect>
+   <rect class="cls-2" fill="#fff" x="23.73" width="44.95" height="88" rx="4.74" ry="4.74"></rect>
+   <path class="cls-3" fill="url(#a___BLo9QJBU)" d="M63.95 0H47.07v88h16.88a4.74 4.74 0 0 0 4.74-4.74V4.74A4.74 4.74 0 0 0 63.95 0z"></path>
+   <path fill="#89DAC1" d="M29.7 13.08h33.97v61.65H29.7z"></path>
+   <path class="cls-5" stroke="#000" stroke-miterlimit="10" stroke-width="2" fill="none" d="M56.7 66.17h-9.63v-31.9h-9.58"></path>
+   <path class="cls-6" fill="#d6d6d5" d="M61 55.5a4.3 4.3 0 0 0-4.3-4.3 4.29 4.29 0 0 0-4.19 5.28 4.28 4.28 0 0 0 .21.66l2.92 9.16a1.09 1.09 0 0 0 1.05.77 1.09 1.09 0 0 0 1.05-.77l2.92-9.16a4.28 4.28 0 0 0 .21-.66 4.3 4.3 0 0 0 .13-.98zm-4.3 2.56a2.56 2.56 0 1 1 2.56-2.56 2.56 2.56 0 0 1-2.56 2.56z"></path>
+   <path class="illustration-secondary-fill" d="M41.79 23.66a4.3 4.3 0 0 0-4.3-4.3 4.29 4.29 0 0 0-4.19 5.28 4.28 4.28 0 0 0 .21.66l2.92 9.16a1.09 1.09 0 0 0 1.05.77 1.09 1.09 0 0 0 1.05-.77l2.92-9.16a4.28 4.28 0 0 0 .21-.66 4.3 4.3 0 0 0 .13-.98zm-4.3 2.56A2.56 2.56 0 1 1 40 23.66a2.56 2.56 0 0 1-2.51 2.56z"></path>
+</svg>

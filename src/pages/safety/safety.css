@@ -1,0 +1,405 @@
+.safety{
+    height: 100%;
+    width: 100vw;
+}
+
+.commForSafety{
+    height: auto;
+    width: 100%;
+    background-color: #ffffff;
+}
+
+.commForSafetyCont{
+    display: block;
+    width: 60%;
+    height: 100%;
+    margin:0px auto;
+}
+
+.commForSafetyD{
+    display: flex;
+    height: 91%;
+    width: 100%;
+    padding-bottom: 20px;
+}
+
+.safetyDiv{
+    display: flex;
+    width: 90%;
+    height: 90%;
+    margin: 25px;
+}
+
+.commForSafetyDTxt{
+    display: flex;
+    flex-direction: column;
+    flex:1;
+}
+
+.commForSafetyDTxtH{
+    display: flex;
+    margin-top: 30px;
+    padding: 0px 6px;
+}
+
+.commForSafetyDTxtHead{
+    color:#000;
+    font-size: 27px;
+    font-weight: 400;
+}
+
+.commForSafetyDTxtP{
+    display: flex;
+    margin-top: 15px;
+    padding: 0px 6px;
+}
+
+.commForSafetyDTxtPar{
+    font-size: 11px;
+    font-weight: 300;
+}
+
+
+.commForSafetyDImg{
+    display: flex;
+    flex:1;
+}
+
+.safFamilyImg{
+    height: 215px;
+    width: 300px;
+    object-fit: cover;
+}
+
+.safetyFromCov{
+    height: auto;
+    width: 100%;
+    background-color: #ffffff;
+}
+
+.safetyFromCovDiv{
+    height: 100%;
+    width: 60%;
+    margin: 0px auto;
+    display: flex;
+}
+
+.safetyFromCovItems{
+    display: flex;
+    width: 70%;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+.safetyFromCovItem{
+    display: flex;
+    padding: 5px;
+}
+
+.safetyFromCovItemH{
+    font-size: 24px;
+    font-weight: 400;
+}
+
+.safetyFromCovItemP{
+    font-size: 12px;
+    font-weight: 300;
+}
+
+
+.safetyFromCovItemLink{
+    text-decoration: underline;
+    padding-right: 10px;
+    font-size: 11px;
+    font-weight: 300;
+    cursor:pointer;
+}
+
+.buildYSaf{
+    height:auto;
+    width: 100%;
+    position: relative;
+    background-color: #ffffff;
+}
+
+.buildYSafDiv{
+    display: flex;
+    flex-direction: column;
+    width: 60%;
+    height: 100%;
+    margin:10px auto;
+    padding: 15px 0px;
+}
+
+.buildYSafDivH{
+    display: flex;
+    padding: 10px 5px;
+}
+
+.buildYSafDivHead{
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.buildYSafDivFeat{
+    display: flex;
+    gap:8px;
+    padding: 0px 5px;
+}
+
+.buildYSafFeatItemH{
+    display: flex;
+    padding: 5px 0px;
+}
+
+.buildYSafFeatItemHead{
+    color:#000;
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.buildYSafFeatItemP{
+    display: flex;
+    padding: 5px 5px 0px 0px;
+}
+
+.buildYSafFeatItemPar{
+    font-size: 10px;
+    font-weight: 300;
+}
+
+.driveOrRideSaf{
+    height: auto;
+    width: 100%;
+    margin-top: -110px;
+    background-color: #ffffff;
+}
+
+.driveOrRideSafDiv{
+    display: block;
+    height: 95%;
+    width: 90%;
+    margin:10% 5%;
+}
+
+.driveOrRideSafCont{
+    display: flex;
+    flex-direction: column;
+    width: 60%;
+    height: 100%;
+    margin:0px 20%;
+}
+
+.driveOrRideSafContH{
+    display: flex;  
+    padding: 10px 0px;
+}
+
+.driveOrRideSafContHeader{
+    padding-left: 3px;
+    font-size: 23px;
+    font-weight: 400;
+}
+
+.safContDriveOrRide{
+    display: flex;
+    margin-top: 10px;
+}
+
+.safContDriveOrRideItem{
+    display: flex;
+    flex-direction: column;
+    gap:10px;
+    padding: 0px 5px;
+}
+
+.driverImgD{
+    height: 150px;
+    width: 283px;
+}
+
+.driverImg{
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+}
+
+.driverHead{
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.driverParag{
+    font-size: 11px;
+    font-weight: 300;
+}
+
+.driverParagLink{
+    color:#000;
+    text-decoration: underline;
+    font-size: 11px;
+    font-weight: 300;
+    text-underline-offset: 3px;
+    cursor:pointer;
+}
+
+.uberCeo{
+    height: auto;
+    width: 100%;
+    background-color: #276EF1;
+}
+
+.uberCeoD{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 60%;
+    height: 100%;
+    margin:0px auto;
+    padding: 15px 0px;
+    color:white;
+}
+
+.uberCeoPar,.uberCeoN{
+    display: flex;
+    padding: 10px 15px;
+}
+
+.uberCeoQuote{
+    font-size: 12px;
+    font-weight: 400;
+}
+
+.uberCeoName{
+    font-size: 14px;
+    font-weight: 400;
+}
+
+.uberPartnering{
+    height: auto;
+    width: 100%;
+    background-color: #ffffff;
+}
+
+.uberPartneringCont{
+    height: 100%;
+    width: 60%;
+    margin:0px auto;
+}
+
+.uberPartneringD{
+    display: flex;
+    align-items: flex-start;
+    padding: 25px;
+}
+
+.uberPartneringImgD{
+    flex:1;
+    display: flex;
+}
+
+.partnerImg{
+    height: 250px;
+    width: 300px;
+    object-fit: cover;
+}
+
+.uberPartneringInf{
+    display: flex;
+    flex-direction: column;
+    flex:1;
+    height: 100%;
+    padding: 15px;
+}
+
+.uberPartneringItemH{
+    padding: 5px 0px;
+}
+
+.tomkDiff{
+    font-size: 22px;
+    font-weight: 400;
+}
+
+.uberPartneringItemP{
+    padding: 10px 0px;
+}
+
+.ourCommit{
+    font-size: 12px;
+    font-weight: 300;
+}
+
+.goFoMore{
+    color:#000;
+    text-decoration:underline;
+    font-size: 13px;
+    font-weight: 300;
+    text-underline-offset: 3px;
+}
+
+.uberLinksDivTo{
+    height: auto;
+    width: 100%;
+    background-color: #ffffff;
+}
+
+.uberLinksConTo{
+    height: 100%;
+    width: 60%;
+    margin:0px auto;
+}
+
+.linkToDriverOrRider{
+    height: 100%;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    gap:45px;
+    padding: 17px;
+}
+
+.drOrRdIcon,.drOrRdH,.drOrRdP,.drOrRdL{
+    padding: 5px 0px;
+}
+
+.drOrRdHead{
+    font-size: 17px;
+    font-weight: 400;
+}
+
+.drOrRdPar{
+    font-size: 12px;
+    font-weight: 300;
+}
+
+.drOrRdL{
+    color:rgb(34, 33, 33);
+    font-size: 13px;
+    font-weight: 300;
+    text-decoration: underline;
+    text-underline-offset: 3px;
+    cursor:pointer;
+}
+
+.aboutSomeFeat{
+    height: auto;
+    width: 100%;
+    background-color: #ffffff;
+}
+
+.aboutSomeFeatCont{
+    height: 100%;
+    width: 60%;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    margin:0px auto;
+    padding: 20px 0px;
+}
+
+.aboutSomeFetMiss{
+    margin-left: 12px;
+    font-size: 14px;
+    font-weight: 300;
+}

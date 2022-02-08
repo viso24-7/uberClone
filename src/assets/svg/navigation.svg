@@ -1,0 +1,20 @@
+ <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 88 88" height="36" width="36">
+     <defs>
+          <pattern id="a___BUIObEfM" data-name="2/2 - black" width="4" height="4" patternTransform="translate(10.46 36)" patternUnits="userSpaceOnUse" viewBox="0 0 4 4">
+             <path fill="none" d="M0 0h4v4H0z"></path>
+             <path d="M0 0h2v2H0z"></path>
+          </pattern>
+      </defs>
+      <title>ias-icons</title>
+      <path class="cls-2" fill="#a6a5a5" d="M40.74 35.39l-9.28 9.28a6.5 6.5 0 0 1-.27-8.9l.25-.28.48-.49a7.89 7.89 0 0 0-.25-10.9L20.72 35.06a7.79 7.79 0 0 0-2.28 5.51v14.22A11.68 11.68 0 0 1 15 63.05l-7.2 7.2L25.57 88l6.16-6.16A11.68 11.68 0 0 1 40 78.42h6.37a7.79 7.79 0 0 0 5.51-2.28l11.35-11.36-12.44-11.52 1-13.7zM79.02 9.855a3.95 3.95 0 0 1 0 5.586L66.916 27.546l-5.586-5.586L73.435 9.855a3.95 3.95 0 0 1 5.586 0z"></path>
+      <circle class="cls-2" fill="#a6a5a5" cx="76.23" cy="48.65" r="3.95"></circle>
+      <circle class="cls-2" fill="#a6a5a5" cx="76.23" cy="38.38" r="3.95"></circle>
+      <circle class="cls-2" fill="#a6a5a5" cx="76.23" cy="28.12" r="3.95"></circle>
+      <rect x="35.15" width="33.81" height="66.19" rx="3.56" ry="3.56"></rect>
+      <rect class="cls-3" fill="#fff" x="38.47" width="33.81" height="66.19" rx="3.56" ry="3.56"></rect>
+      <path class="cls-4" fill="url(#a___BUIObEfM)" d="M68.72 0H56v66.19h12.7a3.56 3.56 0 0 0 3.56-3.56V3.56A3.56 3.56 0 0 0 68.72 0z"></path>
+      <path fill="#fff" d="M42.96 9.83h25.55V56.2H42.96z"></path>
+      <path fill="#5879DA" d="M48.09 26a7.88 7.88 0 0 0 .21 1.79 7.84 7.84 0 0 0 .39 1.21L54 45.77a2 2 0 0 0 2 1.41v-29.1A7.88 7.88 0 0 0 48.09 26z"></path>
+      <path d="M56 18.12v29.1a2 2 0 0 0 1.93-1.41l5.33-16.73A7.89 7.89 0 0 0 56 18.12z"></path>
+      <circle class="cls-3" fill="#fff" cx="55.97" cy="25.96" r="2.97"></circle>
+  </svg>      

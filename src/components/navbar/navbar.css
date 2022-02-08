@@ -1,0 +1,153 @@
+.navbar{
+    height: 20px;
+    width: 100vw;
+    display: flex;
+
+    margin-left: auto;
+    margin-right: auto;
+    padding: 12px 0px;
+    background-color: #000000;
+}
+
+.navbarLeft{
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    align-content: flex-start;
+    margin-left: 15%;
+}
+
+.uberNavLogo{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    list-style: none;
+}
+
+.uberNavLogoIt{
+    padding: 10px;
+    color:white;
+    font-size: 18px;
+    font-weight: 400;
+    cursor:pointer;
+}
+
+.uberNavLogoIt a{
+    text-decoration: none;
+}
+
+.uberNavLinks{
+    display: flex;
+    align-items: center;
+    list-style: none;
+    margin-left: 10px;
+    padding: 3px;
+    color:#fff;
+}
+
+.uberNavLinksItems{
+    padding: 5px;
+    font-size: 12px;
+    font-weight: 400;
+    cursor:pointer;
+}
+
+.uberNavLinksItem{
+    text-decoration: none;
+    color:#fff;
+}
+
+.comp{
+    background-color: rgb(92, 88, 88);
+    border-radius:15px;
+}
+
+.companyDiv{
+    position: absolute;
+    top: 32px;
+    left: 65px;
+    display: block;
+    list-style: none;
+    background-color: #ffffff;
+    z-index:999;
+}
+
+.companyLinksItems{
+    display: flex;
+    align-items: center;
+    padding: 5px;
+    background-color: inherit;
+}
+
+.companyLinkItem{
+    text-decoration: none;
+    color:rgb(167, 161, 161);
+    font-size: 13px;
+    font-weight: 400;
+    cursor:pointer;
+}
+
+.navbarRight{
+    display: flex;
+    flex-direction: row;
+    align-content: flex-end;
+    margin-left: 15%;
+}
+
+.navbarRightLinks{
+    display: flex;
+    gap:8px;
+    list-style: none;
+    color:inherit;
+}
+
+.uberNavRightItems{
+    padding: 5px;
+    font-size: 12px;
+    font-weight: 400;
+    color:#fff;
+}
+
+.navbarRightLinksItems{
+    display: flex;
+    padding: 2px 15px;
+    cursor:pointer;
+}
+
+.navbarRightLinksButt{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color:white;
+    border:none;
+    background-color: inherit;
+}
+
+.navRButtText{
+    font-size: 12px;
+    font-weight: 400;
+    margin-left: 5px;
+}
+
+.navbarSignUpButt{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor:pointer;
+}
+
+.signUpUber{
+    width: 60px;
+    padding: 5px;
+    border:none;
+    border-radius:18px;
+    font-size: 12px;
+    font-weight: 400;
+    color:#000;
+    background-color: #fff;
+}
+
+.goSignUpInUber{
+    text-decoration: none;
+    color:inherit;
+}
